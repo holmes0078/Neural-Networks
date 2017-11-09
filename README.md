@@ -1,2 +1,3 @@
 # Neural-Networks
-My solutions to Neural Network Computing HW's at NYU
+My solutions to Neural Network Computing Homeworks at NYU.
+
